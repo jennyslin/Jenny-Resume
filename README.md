@@ -1,6 +1,6 @@
 # Jenny-Resume
 
-![image](https://jennyslin.github.io/Jenny-Resume/jenny-resumee.jpg)
+![image](https://jennyslin.github.io/Jenny-Resume/jenny-resume.jpg)
 
 # 作品集:
 # https://reurl.cc/8KzNd
