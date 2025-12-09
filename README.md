@@ -1,5 +1,5 @@
 # Jenny-Resume
 
-![image](https://jennyslin.github.io/Jenny-Resume/Jenny_resume-04.jpg)
+![image](https://jennyslin.github.io/Jenny-Resume/jenny+resume-251209.jpg)
 
 
